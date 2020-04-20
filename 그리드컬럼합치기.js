@@ -1,0 +1,1 @@
+var rtn1 = 대상그리드.setCellProperty("body", 0, "suppress", 1);

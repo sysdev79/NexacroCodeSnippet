@@ -1,0 +1,1 @@
+var isDup = this.gfn_isDup( 대상데이터셋, ["PK컬럼1", "PK컬럼2"], "", "메시지", false ); // 신규 추가된 row에대해서만 할때는 true

@@ -1,0 +1,1 @@
+this.gfn_getAutoNo("컬럼명", this.gfn_getToday());

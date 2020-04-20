@@ -1,0 +1,1 @@
+this.gfn_setValid(From날짜콤포넌트, To날짜콤포넌트, "");
